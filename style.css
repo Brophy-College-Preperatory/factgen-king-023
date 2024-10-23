@@ -1,57 +1,57 @@
 * {   /* Reset the margin and padding for all the elements */
-   margin: 0px;
-   padding: 0px;
+   margin: 0px; /* sets the margin to 0*/
+   padding: 0px; /* sets the padding to 0 */
 }
 
 body {
-  font-family: 'Overpass', sans-serif; 
-  text-align: center; 
+  font-family: 'Overpass', sans-serif;  /* sets the font to overpass */
+  text-align: center;  /* aligns the text to the center */
   color: #003046; /* Default text color */
   background-color: #F9E9EC;/* Background color */
 }
 
 h1 {
-  background-color: #FAC748;
-  color:#1D2F6F;
-  text-align: center; 
-  font-family: 'Playfair Display', serif;
+  background-color: #FAC748;  /* sets the background color to yellow */
+  color:#1D2F6F;  /* sets the color to black */
+  text-align: center;  /* aligns text to the center */
+  font-family: 'Playfair Display', serif; /* sets the font to play fair display */
 }
 
 main {
-  margin: 0 auto;
-  max-width: 60%;
-  text-align: center;
-  font-family: 'Overpass', sans-serif; 
+  margin: 0 auto; /* makes the margin to 0*/
+  max-width: 60%;  /* makes the max width to 60% */
+  text-align: center;  /* aligns the text to the center */
+  font-family: 'Overpass', sans-serif;  /* makes the font to overpass*/
 }
 
 /* STYLE TEXT */
 p {
-  font-size: 1.2em;
-  text-align: left; 
-  padding-top: 1em;
-  padding-bottom: 1em;
+  font-size: 1.2em;  /* sets the font size*/
+  text-align: left;  /* aligns the text to the left*/
+  padding-top: 1em; /* sets the size of the padding on top*/
+  padding-bottom: 1em; /* sets the size of the padding on the bottom*/
 }
 
 #fact {
-  font-weight: 700;
-  font-size: 1.5em;
-  text-align: center;
-  margin-top: 1.5em;
+  font-weight: 700;  /* sets the weight of the font to 700 */
+  font-size: 1.5em; /* sets the font size to 1.5em */
+  text-align: center; /* aligns the text to the center */
+  margin-top: 1.5em; /*  makes the margin at the top to 1.5em*/
 }
 
 h1 {
-  font-size: 2.2em;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  font-size: 2.2em;  /*  makes the font size 2.2em*/
+  padding-top: 1em;  /*  makes the top padding to 1em*/
+  padding-bottom: 1em;  /* makes the padding-bottom to 1em*/
 }
 
 
 
 /* STYLE BUTTON */
 button {
-  background: #FAC748;
-  padding: 10px;
-  font-family: 'Playfair Display', serif;
-  font-size: 1em;
-  border-style: none;
+  background: #FAC748;  /* sets the background to yellow*/
+  padding: 10px; /* sets the padding to 10px*/
+  font-family: 'Playfair Display', serif; /*sets the font to playfair display */
+  font-size: 1em;  /* sets the font size to 1em*/
+  border-style: none;  /*  sets the border style to none*/
 }
